@@ -1,0 +1,17 @@
+
+ul li .khung{
+    display: none;
+}
+
+ul li:hover .khung{
+    display: block;
+}
+
+
+.khung1 {
+    display: none;
+}
+
+.khung:hover .khung1{
+    display: block;
+}
